@@ -1,5 +1,4 @@
 #!/bin/sh -l
-#!/usr/bin/env groovy
 
 node {
     stage('checkout') {
